@@ -13,4 +13,7 @@ First start the docker-compose which contains ZooKeeper, Kafka, Kafdrop, and MyS
 
 ```bash
 $ docker-compose -f docker-compose.yml up -d
+or 
+( if you have installed docker compose and using the following command on git bash)
+$ docker compose up -d
 ```
